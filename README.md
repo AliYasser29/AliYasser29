@@ -18,7 +18,7 @@
 - 🌱 Currently learning: **Django**
 - 💬 Ask me about: `Python`, `Flask`, `APIs`, `SQLite`, `Deployment`
 - 📧 Reach me at: [ay9055136@gmail.com](mailto:ay9055136@gmail.com)
-- 📄 My CV[Here](https://drive.google.com/file/d/1sxA9lhlHsZJfop9yVgP2t6YNhg5hfD8l/view?usp=sharing)
+- 📄 My CV: [Here](https://drive.google.com/file/d/1sxA9lhlHsZJfop9yVgP2t6YNhg5hfD8l/view?usp=sharing)
 
 ---
 
