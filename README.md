@@ -89,6 +89,10 @@
 - 🔹 **TeraArc Official Website**  
   Corporate website for **TeraArc** company showcasing services, portfolio, and contact info, built with html, css, vanilla js and Flask
 
+- 🔹 **Weather App**  
+  A simple desktop weather application built with **Python** and **PyQt5**. It fetches real-time weather data using the **OpenWeatherMap API** and displays temperature, description, and   an emoji representing the weather.
+
+
 ---
 
 ## ⚡ Fun Dev Loop
