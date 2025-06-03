@@ -15,9 +15,9 @@
 
 - 🔧 Back-End Developer at **TeraArc**
 - 💡 Passionate about building modern, secure, and scalable back-end systems
-- 🧠 Always learning and exploring: Currently diving deeper into **Django**
-- 📫 Reach me anytime: **ay9055136@gmail.com**
-- 📄 My CV: [Download My CV](https://drive.google.com/file/d/1sxA9lhlHsZJfop9yVgP2t6YNhg5hfD8l/view?usp=sharing)
+- 🧠 Currently exploring more of **Django**
+- 📫 Reach me at: **ay9055136@gmail.com**
+- 📄 [My CV](https://drive.google.com/file/d/1sxA9lhlHsZJfop9yVgP2t6YNhg5hfD8l/view?usp=sharing)
 
 ---
 
@@ -62,16 +62,29 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center"> <a href="https://github.com/aliyasser29"> <img src="https://github-readme-stats.vercel.app/api?username=aliyasser29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" /> </a> <a href="https://github.com/aliyasser29"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyasser29&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </a> </p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aliyasser29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyasser29&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📁 Featured Projects
 
+- 🔹 **Flask Admin Dashboard**  
+  Secure dashboard with authentication, role-based access, and course/news management
 
-- 🔹 **Flask Admin Dashboard** – Secure dashboard with authentication, role-based access, and course/news management  
-- 🔹 **Portfolio Website (React + Flask API)** – Modern, fast, responsive, dark/light mode, and multilingual  
-- 🔹 **POS System for Shops** – Under development at TeraArc using Python, Flask, SQLite
+- 🔹 **Portfolio Website (React + Flask API)**  
+  Modern, fast, responsive, with dark/light mode and multilingual support
+
+- 🔹 **POS System for Shops** *(in progress)*  
+  Being developed at **TeraArc** using Python, Flask, and SQLite
 
 ---
 
