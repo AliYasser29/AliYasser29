@@ -17,7 +17,7 @@
 - 💡 Passionate about building modern, secure, and scalable back-end systems
 - 🧠 Currently exploring more of **Django**
 - 📫 Reach me at: **ay9055136@gmail.com**
-- 📄 [My CV](https://drive.google.com/file/d/1sxA9lhlHsZJfop9yVgP2t6YNhg5hfD8l/view?usp=sharing)
+- 📄 My CV: [Here](https://drive.google.com/file/d/1sxA9lhlHsZJfop9yVgP2t6YNhg5hfD8l/view?usp=sharing)
 
 ---
 
@@ -87,7 +87,7 @@
   Being developed at **TeraArc** using Python, Flask, and SQLite
 
 - 🔹 **TeraArc Official Website**  
-  Corporate website for **TeraArc** company showcasing services, portfolio, and contact info, built with React and Flask
+  Corporate website for **TeraArc** company showcasing services, portfolio, and contact info, built with html, css, vanilla js and Flask
 
 ---
 
