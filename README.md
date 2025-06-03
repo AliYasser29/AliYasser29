@@ -17,7 +17,7 @@
 - 💡 Passionate about building modern, secure, and scalable back-end systems
 - 🧠 Always learning and exploring: Currently diving deeper into **Django**
 - 📫 Reach me anytime: **ay9055136@gmail.com**
-- 📄 [Download My CV](https://drive.google.com/file/d/1sxA9lhlHsZJfop9yVgP2t6YNhg5hfD8l/view?usp=sharing)
+- 📄 My CV: [Download My CV](https://drive.google.com/file/d/1sxA9lhlHsZJfop9yVgP2t6YNhg5hfD8l/view?usp=sharing)
 
 ---
 
@@ -71,7 +71,6 @@
 
 ## 📁 Featured Projects
 
-> *(You can update this section with actual projects with links)*
 
 - 🔹 **Flask Admin Dashboard** – Secure dashboard with authentication, role-based access, and course/news management  
 - 🔹 **Portfolio Website (React + Flask API)** – Modern, fast, responsive, dark/light mode, and multilingual  
