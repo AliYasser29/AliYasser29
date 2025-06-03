@@ -86,6 +86,9 @@
 - 🔹 **POS System for Shops** *(in progress)*  
   Being developed at **TeraArc** using Python, Flask, and SQLite
 
+- 🔹 **TeraArc Official Website**  
+  Corporate website for **TeraArc** company showcasing services, portfolio, and contact info, built with React and Flask
+
 ---
 
 ## ⚡ Fun Dev Loop
