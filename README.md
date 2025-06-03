@@ -62,10 +62,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliyasser29&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyasser29&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+<p align="center"> <a href="https://github.com/aliyasser29"> <img src="https://github-readme-stats.vercel.app/api?username=aliyasser29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" /> </a> <a href="https://github.com/aliyasser29"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyasser29&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </a> </p>
 
 ---
 
